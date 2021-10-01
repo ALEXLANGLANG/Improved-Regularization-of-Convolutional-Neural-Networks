@@ -10,4 +10,5 @@ but it is harder for mixup to handle overfitting problems if the model goes deep
 And the best combination of them also works well for these two other datasets.
 
 ## Poster
-[Poster.pdf](https://github.com/ALEXLANGLANG/Improved-Regularization-of-Convolutional-Neural-Networks/files/7268843/Poster.pdf)
+![poster](https://user-images.githubusercontent.com/49976598/135658720-73fd6bba-cbd5-462c-a86a-0ea101dce97d.jpg)
+[downLoad_poster](https://github.com/ALEXLANGLANG/Improved-Regularization-of-Convolutional-Neural-Networks/files/7268843/Poster.pdf)
